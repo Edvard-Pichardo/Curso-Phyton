@@ -1,6 +1,6 @@
 # Curso de Python Básico
 
-Este repositorio contiene notas y archivos relacionados con el curso de Python básico que he tomado hace un par de años por lo que podría estar desactualizado. 
+Este repositorio contiene notas y archivos relacionados con el curso de Python básico que he tomado hace un par de años. Es importante destacar que hay dos carpetas denominadas Cursa A y B respectivamente. Ambas se tratan del mismo curso tomadas en diferentes tiempos, por lo que las anotaciones de cada documento podrían cambiar. 
 
 ## Contenido del Repositorio
 
